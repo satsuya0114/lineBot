@@ -1,0 +1,22 @@
+{
+  "name": "lineBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "^4.0.2",
+    "cheerio": "^0.22.0",
+    "express": "^4.15.2",
+    "linebot": "^1.3.0",
+    "moment": "^2.18.1",
+    "node-wit": "^4.2.0",
+    "request": "^2.81.0"
+  }
+}
